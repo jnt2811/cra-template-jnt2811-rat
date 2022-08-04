@@ -1,6 +1,7 @@
 {
   "name": "cra-template-jnt2811-rat",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": "git@github.com:jnt2811/cra-template-jnt2811-rat.git",
-  "license": "MIT"
+  "license": "MIT",
+  "main": "index.js"
 }
