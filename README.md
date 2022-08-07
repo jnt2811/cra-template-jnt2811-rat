@@ -6,3 +6,5 @@
 ```
 npx create-react-app my-app --template jnt2811-rat
 ```
+
+2022
